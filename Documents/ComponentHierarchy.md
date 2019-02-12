@@ -4,3 +4,4 @@
 **HOMEPAGE**
 * Navbar
 * LogIn
+* UserSearch
