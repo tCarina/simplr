@@ -3,3 +3,4 @@
 
 **HOMEPAGE**
 * Navbar
+* LogIn
