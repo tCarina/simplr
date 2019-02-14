@@ -1,9 +1,10 @@
 ### SIMPLR
 
-## Minimum Viable Product
-
 [Trello][trello]
+
 [trello]: https://trello.com/b/9ub5OXgO/simplr
+
+## Minimum Viable Product
 
 This fullstack web application will be a clone of Tumblr usinf Express and React. It wil be similar in funcionality. 
 
