@@ -20,7 +20,8 @@ Users will be able to:
 
 * [Wireframes](./wireframes)
 * [API Endpoints](./ApiEndpoints)
-
+* [Schema](./schema)
+* [Components](./ComponentHierarchy)
 
 
 ## Implementation Timeline
