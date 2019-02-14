@@ -1,6 +1,6 @@
 # Simplr
 
-## USERS
+### USERS
 * `id`
 * `username`
 * `password`
@@ -9,25 +9,25 @@
 * `title`
 * `description`
 
-## POSTS 
+### POSTS 
 * `id`
 * `user_id`
 * `url/body`
 * `type: video, photo, text, gif`
 * `caption`
 
-## LIKES
+### LIKES
 * `id`
 * `liker_id`
 * `post_id`
 
-## COMMENTS
+### COMMENTS
 * `id`
 * `commenter_id`
 * `post_id`
 * `body`
 
-## FOLLOWINGS
+### FOLLOWINGS
 * `id`
 * `follower_id`
 * `following_id`
