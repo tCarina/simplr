@@ -30,12 +30,6 @@
 * `DELETE /api/users/:userID/:postID`
     * Deletes single post
 
-### Likes 
-* `POST /like`
-     * Adds a like
-* `DELETE /like/:id
-    * Deletes a single like
-
 ### Comments
 * `POST /comments`
     * Creates comment
